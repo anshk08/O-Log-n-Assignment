@@ -1,0 +1,2322 @@
+[
+  {
+    "locality_name": "Sarita Vihar",
+    "locality_id": "ZWL005764"
+  },
+  {
+    "locality_name": "Faridabad Sector 41-50",
+    "locality_id": "ZWL008752"
+  },
+  {
+    "locality_name": "New Friends Colony",
+    "locality_id": "ZWL005996"
+  },
+  {
+    "locality_name": "Sector 26 (Noida)",
+    "locality_id": "ZWL005243"
+  },
+  {
+    "locality_name": "New Industrial Town",
+    "locality_id": "ZWL009032"
+  },
+  {
+    "locality_name": "Tilak Nagar",
+    "locality_id": "ZWL005428"
+  },
+  {
+    "locality_name": "Sector 10, Gurgaon",
+    "locality_id": "ZWL001073"
+  },
+  {
+    "locality_name": "Ashok Vihar, Delhi",
+    "locality_id": "ZWL001319"
+  },
+  {
+    "locality_name": "Kalkaji",
+    "locality_id": "ZWL004800"
+  },
+  {
+    "locality_name": "Sector 53",
+    "locality_id": "ZWL003118"
+  },
+  {
+    "locality_name": "Sector 49",
+    "locality_id": "ZWL002091"
+  },
+  {
+    "locality_name": "Vasundhara",
+    "locality_id": "ZWL002662"
+  },
+  {
+    "locality_name": "Rajinder Nagar",
+    "locality_id": "ZWL001404"
+  },
+  {
+    "locality_name": "Safdarjung Enclave",
+    "locality_id": "ZWL008963"
+  },
+  {
+    "locality_name": "Connaught Place",
+    "locality_id": "ZWL006538"
+  },
+  {
+    "locality_name": "Sector 66",
+    "locality_id": "ZWL003075"
+  },
+  {
+    "locality_name": "Sector 57",
+    "locality_id": "ZWL003721"
+  },
+  {
+    "locality_name": "Moti Bagh, Delhi",
+    "locality_id": "ZWL006396"
+  },
+  {
+    "locality_name": "Patel Nagar, Delhi",
+    "locality_id": "ZWL004535"
+  },
+  {
+    "locality_name": "Greater Noida",
+    "locality_id": "ZWL008554"
+  },
+  {
+    "locality_name": "Karkardooma, Delhi",
+    "locality_id": "ZWL004533"
+  },
+  {
+    "locality_name": "Tigaon",
+    "locality_id": "ZWL002179"
+  },
+  {
+    "locality_name": "Sector 50 (Noida)",
+    "locality_id": "ZWL007487"
+  },
+  {
+    "locality_name": "Vasant Kunj, Delhi",
+    "locality_id": "ZWL007120"
+  },
+  {
+    "locality_name": "Dwarka, Delhi",
+    "locality_id": "ZWL007486"
+  },
+  {
+    "locality_name": "Sector 15",
+    "locality_id": "ZWL006287"
+  },
+  {
+    "locality_name": "Mayur Vihar Phase III",
+    "locality_id": "ZWL002146"
+  },
+  {
+    "locality_name": "Crossing Republik",
+    "locality_id": "ZWL008405"
+  },
+  {
+    "locality_name": "Sector 28",
+    "locality_id": "ZWL004455"
+  },
+  {
+    "locality_name": "Palam Vihar, Gurgaon",
+    "locality_id": "ZWL005087"
+  },
+  {
+    "locality_name": "Sector 63 (Noida)",
+    "locality_id": "ZWL009648"
+  },
+  {
+    "locality_name": "Raj Nagar, Ghaziabad",
+    "locality_id": "ZWL008317"
+  },
+  {
+    "locality_name": "Sector 128",
+    "locality_id": "ZWL005878"
+  },
+  {
+    "locality_name": "Sector 56, Gurgaon",
+    "locality_id": "ZWL003241"
+  },
+  {
+    "locality_name": "Indirapuram",
+    "locality_id": "ZWL007224"
+  },
+  {
+    "locality_name": "Malviya Nagar",
+    "locality_id": "ZWL009834"
+  },
+  {
+    "locality_name": "Sector 43, Gurgaon",
+    "locality_id": "ZWL007284"
+  },
+  {
+    "locality_name": "Sector 120 (Noida)",
+    "locality_id": "ZWL006738"
+  },
+  {
+    "locality_name": "Saket",
+    "locality_id": "ZWL007329"
+  },
+  {
+    "locality_name": "Sector 18 (Noida)",
+    "locality_id": "ZWL001752"
+  },
+  {
+    "locality_name": "Naraina",
+    "locality_id": "ZWL007594"
+  },
+  {
+    "locality_name": "Patparganj",
+    "locality_id": "ZWL006116"
+  },
+  {
+    "locality_name": "Ghitorni",
+    "locality_id": "ZWL009925"
+  },
+  {
+    "locality_name": "Faridabad Sector 1-11",
+    "locality_id": "ZWL009335"
+  },
+  {
+    "locality_name": "Sector 24",
+    "locality_id": "ZWL009638"
+  },
+  {
+    "locality_name": "Rajouri Garden",
+    "locality_id": "ZWL005670"
+  },
+  {
+    "locality_name": "Vishnu Garden",
+    "locality_id": "ZWL003757"
+  },
+  {
+    "locality_name": "Sector 48, Gurgaon",
+    "locality_id": "ZWL003610"
+  },
+  {
+    "locality_name": "Kirti Nagar",
+    "locality_id": "ZWL005971"
+  },
+  {
+    "locality_name": "Faridabad Sector 81-89",
+    "locality_id": "ZWL003626"
+  },
+  {
+    "locality_name": "GK I",
+    "locality_id": "ZWL005876"
+  },
+  {
+    "locality_name": "Mohan Estate",
+    "locality_id": "ZWL006295"
+  },
+  {
+    "locality_name": "Mukherjee Nagar",
+    "locality_id": "ZWL007653"
+  },
+  {
+    "locality_name": "Mehrauli",
+    "locality_id": "ZWL006697"
+  },
+  {
+    "locality_name": "Burari",
+    "locality_id": "ZWL003259"
+  },
+  {
+    "locality_name": "Gaur city, Ghaziabad",
+    "locality_id": "ZWL004759"
+  },
+  {
+    "locality_name": "GK II",
+    "locality_id": "ZWL004477"
+  },
+  {
+    "locality_name": "Rohini",
+    "locality_id": "ZWL005077"
+  },
+  {
+    "locality_name": "Rangpuri",
+    "locality_id": "ZWL008191"
+  },
+  {
+    "locality_name": "Sector 46",
+    "locality_id": "ZWL006092"
+  },
+  {
+    "locality_name": "Sector 62 (Noida)",
+    "locality_id": "ZWL001549"
+  },
+  {
+    "locality_name": "Shalimar Bagh",
+    "locality_id": "ZWL001036"
+  },
+  {
+    "locality_name": "Model Town",
+    "locality_id": "ZWL006996"
+  },
+  {
+    "locality_name": "Faridabad Sector 16-20",
+    "locality_id": "ZWL007566"
+  },
+  {
+    "locality_name": "Sector 2 (Noida)",
+    "locality_id": "ZWL009852"
+  },
+  {
+    "locality_name": "Govindpuram",
+    "locality_id": "ZWL008648"
+  },
+  {
+    "locality_name": "Gwal Pahari",
+    "locality_id": "ZWL009728"
+  },
+  {
+    "locality_name": "Nehru Nagar",
+    "locality_id": "ZWL006868"
+  },
+  {
+    "locality_name": "Chittaranjan Park",
+    "locality_id": "ZWL002067"
+  },
+  {
+    "locality_name": "IMT Manesar",
+    "locality_id": "ZWL008791"
+  },
+  {
+    "locality_name": "Sector 73 Z Kitchen",
+    "locality_id": "ZWL003043"
+  },
+  {
+    "locality_name": "Sector 51",
+    "locality_id": "ZWL004159"
+  },
+  {
+    "locality_name": "Ballabhgarh",
+    "locality_id": "ZWL005960"
+  },
+  {
+    "locality_name": "Nangloi",
+    "locality_id": "ZWL009293"
+  },
+  {
+    "locality_name": "Uttam Nagar",
+    "locality_id": "ZWL001663"
+  },
+  {
+    "locality_name": "Sector 47",
+    "locality_id": "ZWL005762"
+  },
+  {
+    "locality_name": "Paharganj",
+    "locality_id": "ZWL005345"
+  },
+  {
+    "locality_name": "Sector 25",
+    "locality_id": "ZWL008225"
+  },
+  {
+    "locality_name": "Pitampura",
+    "locality_id": "ZWL001933"
+  },
+  {
+    "locality_name": "Shahdara",
+    "locality_id": "ZWL003591"
+  },
+  {
+    "locality_name": "Sector 31",
+    "locality_id": "ZWL007061"
+  },
+  {
+    "locality_name": "Sector 23",
+    "locality_id": "ZWL008476"
+  },
+  {
+    "locality_name": "Sector 12 (Noida)",
+    "locality_id": "ZWL009008"
+  },
+  {
+    "locality_name": "Mayur Vihar Phase II",
+    "locality_id": "ZWL005323"
+  },
+  {
+    "locality_name": "Faridabad Sector 12-15",
+    "locality_id": "ZWL001412"
+  },
+  {
+    "locality_name": "DLF PHASE 1 (SECTOR 26)",
+    "locality_id": "ZWL005925"
+  },
+  {
+    "locality_name": "Laxmi Nagar",
+    "locality_id": "ZWL008716"
+  },
+  {
+    "locality_name": "Karol Bagh",
+    "locality_id": "ZWL009339"
+  },
+  {
+    "locality_name": "Chhatarpur",
+    "locality_id": "ZWL009096"
+  },
+  {
+    "locality_name": "Paschim Vihar",
+    "locality_id": "ZWL006720"
+  },
+  {
+    "locality_name": "Sector 1, Noida",
+    "locality_id": "ZWL002908"
+  },
+  {
+    "locality_name": "South Extension I",
+    "locality_id": "ZWL001186"
+  },
+  {
+    "locality_name": "Sector 18",
+    "locality_id": "ZWL004789"
+  },
+  {
+    "locality_name": "Kamla Nagar",
+    "locality_id": "ZWL008978"
+  },
+  {
+    "locality_name": "Janakpuri",
+    "locality_id": "ZWL007903"
+  },
+  {
+    "locality_name": "Vikaspuri",
+    "locality_id": "ZWL008897"
+  },
+  {
+    "locality_name": "Najafgarh",
+    "locality_id": "ZWL007431"
+  },
+  {
+    "locality_name": "Mayur Vihar Phase 1",
+    "locality_id": "ZWL001112"
+  },
+  {
+    "locality_name": "Sez Noida 1",
+    "locality_id": "ZWL008649"
+  },
+  {
+    "locality_name": "Gulavali, Noida",
+    "locality_id": "ZWL006384"
+  },
+  {
+    "locality_name": "Sector 14",
+    "locality_id": "ZWL007840"
+  },
+  {
+    "locality_name": "Sector 76(Noida)",
+    "locality_id": "ZWL002072"
+  },
+  {
+    "locality_name": "Green Park",
+    "locality_id": "ZWL003077"
+  },
+  {
+    "locality_name": "Munirka",
+    "locality_id": "ZWL005395"
+  },
+  {
+    "locality_name": "NEHRU PLACE",
+    "locality_id": "ZWL005729"
+  },
+  {
+    "locality_name": "Lajpat Nagar",
+    "locality_id": "ZWL005736"
+  },
+  {
+    "locality_name": "Sector 52 (Noida)",
+    "locality_id": "ZWL007212"
+  },
+  {
+    "locality_name": "Sector 100 (Noida)",
+    "locality_id": "ZWL004803"
+  },
+  {
+    "locality_name": "Sector 50",
+    "locality_id": "ZWL003444"
+  },
+  {
+    "locality_name": "Dilshad Garden",
+    "locality_id": "ZWL008293"
+  },
+  {
+    "locality_name": "Sector 29, Gurgaon",
+    "locality_id": "ZWL007308"
+  },
+  {
+    "locality_name": "SUSHANT LOK 1",
+    "locality_id": "ZWL008219"
+  },
+  {
+    "locality_name": "SAHIBABAD",
+    "locality_id": "ZWL006234"
+  },
+  {
+    "locality_name": "Sector 45 (Noida)",
+    "locality_id": "ZWL007666"
+  },
+  {
+    "locality_name": "Sector 84",
+    "locality_id": "ZWL002490"
+  },
+  {
+    "locality_name": "Sector 7, Gurgaon",
+    "locality_id": "ZWL007138"
+  },
+  {
+    "locality_name": "Sector 27",
+    "locality_id": "ZWL009706"
+  },
+  {
+    "locality_name": "Hauz Khas",
+    "locality_id": "ZWL001267"
+  },
+  {
+    "locality_name": "Jangpura",
+    "locality_id": "ZWL003552"
+  },
+  {
+    "locality_name": "Sector 52, Gurgaon",
+    "locality_id": "ZWL008401"
+  },
+  {
+    "locality_name": "Vaishali, Ghaziabad",
+    "locality_id": "ZWL001758"
+  },
+  {
+    "locality_name": "Shibpur",
+    "locality_id": "ZWL003128"
+  },
+  {
+    "locality_name": "Kalyani 1, Kolkata",
+    "locality_id": "ZWL004322"
+  },
+  {
+    "locality_name": "Bansdroni",
+    "locality_id": "ZWL002495"
+  },
+  {
+    "locality_name": "Bow Barracks",
+    "locality_id": "ZWL009257"
+  },
+  {
+    "locality_name": "Baranagar, Kolkata",
+    "locality_id": "ZWL005435"
+  },
+  {
+    "locality_name": "Sonarpur, Kolkata",
+    "locality_id": "ZWL007041"
+  },
+  {
+    "locality_name": "Ballygunge",
+    "locality_id": "ZWL002918"
+  },
+  {
+    "locality_name": "Sinthi, Kolkata",
+    "locality_id": "ZWL003388"
+  },
+  {
+    "locality_name": "Salt Lake 2",
+    "locality_id": "ZWL008806"
+  },
+  {
+    "locality_name": "Alipore",
+    "locality_id": "ZWL008635"
+  },
+  {
+    "locality_name": "Baguihati",
+    "locality_id": "ZWL002312"
+  },
+  {
+    "locality_name": "South Dum Dum",
+    "locality_id": "ZWL001499"
+  },
+  {
+    "locality_name": "Purba Barisha",
+    "locality_id": "ZWL003315"
+  },
+  {
+    "locality_name": "Jadavpur",
+    "locality_id": "ZWL003794"
+  },
+  {
+    "locality_name": "Tollygunge",
+    "locality_id": "ZWL006574"
+  },
+  {
+    "locality_name": "Shyam Bazar",
+    "locality_id": "ZWL004138"
+  },
+  {
+    "locality_name": "Behala",
+    "locality_id": "ZWL009022"
+  },
+  {
+    "locality_name": "Chandannagar, Kolkata",
+    "locality_id": "ZWL003271"
+  },
+  {
+    "locality_name": "Barrackpore",
+    "locality_id": "ZWL003951"
+  },
+  {
+    "locality_name": "East Kolkata Township",
+    "locality_id": "ZWL003915"
+  },
+  {
+    "locality_name": "Bhowanipore",
+    "locality_id": "ZWL006750"
+  },
+  {
+    "locality_name": "Elgin",
+    "locality_id": "ZWL008828"
+  },
+  {
+    "locality_name": "Howrah",
+    "locality_id": "ZWL008426"
+  },
+  {
+    "locality_name": "New Alipore",
+    "locality_id": "ZWL007323"
+  },
+  {
+    "locality_name": "Barasat",
+    "locality_id": "ZWL006266"
+  },
+  {
+    "locality_name": "New Town (kolkata)",
+    "locality_id": "ZWL008393"
+  },
+  {
+    "locality_name": "Uttarpara",
+    "locality_id": "ZWL007966"
+  },
+  {
+    "locality_name": "Santoshpur",
+    "locality_id": "ZWL001039"
+  },
+  {
+    "locality_name": "Liluah",
+    "locality_id": "ZWL003882"
+  },
+  {
+    "locality_name": "Rajarhat",
+    "locality_id": "ZWL004925"
+  },
+  {
+    "locality_name": "Park Street area",
+    "locality_id": "ZWL005244"
+  },
+  {
+    "locality_name": "Baghajatin Colony",
+    "locality_id": "ZWL003687"
+  },
+  {
+    "locality_name": "Shrirampur",
+    "locality_id": "ZWL008120"
+  },
+  {
+    "locality_name": "Chhota Jagulia",
+    "locality_id": "ZWL007514"
+  },
+  {
+    "locality_name": "Dum Dum",
+    "locality_id": "ZWL003935"
+  },
+  {
+    "locality_name": "Kestopur",
+    "locality_id": "ZWL002931"
+  },
+  {
+    "locality_name": "Sodepur",
+    "locality_id": "ZWL006521"
+  },
+  {
+    "locality_name": "Nimta",
+    "locality_id": "ZWL005558"
+  },
+  {
+    "locality_name": "Shapoorji",
+    "locality_id": "ZWL005174"
+  },
+  {
+    "locality_name": "Barabazar Market",
+    "locality_id": "ZWL002488"
+  },
+  {
+    "locality_name": "Salt Lake 1",
+    "locality_id": "ZWL007934"
+  },
+  {
+    "locality_name": "Tangra",
+    "locality_id": "ZWL001584"
+  },
+  {
+    "locality_name": "Gariahat",
+    "locality_id": "ZWL005429"
+  },
+  {
+    "locality_name": "Santragachi",
+    "locality_id": "ZWL005121"
+  },
+  {
+    "locality_name": "Garia",
+    "locality_id": "ZWL007830"
+  },
+  {
+    "locality_name": "Chinsurah, Kolkata",
+    "locality_id": "ZWL008991"
+  },
+  {
+    "locality_name": "Kankurgachi",
+    "locality_id": "ZWL009194"
+  },
+  {
+    "locality_name": "Kasba",
+    "locality_id": "ZWL004722"
+  },
+  {
+    "locality_name": "Mira Road East",
+    "locality_id": "ZWL006536"
+  },
+  {
+    "locality_name": "Kandivali West",
+    "locality_id": "ZWL004934"
+  },
+  {
+    "locality_name": "Boisar, Mumbai",
+    "locality_id": "ZWL004821"
+  },
+  {
+    "locality_name": "Bhiwandi",
+    "locality_id": "ZWL007249"
+  },
+  {
+    "locality_name": "Panvel",
+    "locality_id": "ZWL001164"
+  },
+  {
+    "locality_name": "Kopar Khairane (Navi Mumbai)",
+    "locality_id": "ZWL009537"
+  },
+  {
+    "locality_name": "Vashi",
+    "locality_id": "ZWL007275"
+  },
+  {
+    "locality_name": "Titwala, Mumbai",
+    "locality_id": "ZWL002556"
+  },
+  {
+    "locality_name": "Kandivali East",
+    "locality_id": "ZWL006937"
+  },
+  {
+    "locality_name": "Nalasopara",
+    "locality_id": "ZWL008636"
+  },
+  {
+    "locality_name": "Lower Parel",
+    "locality_id": "ZWL003995"
+  },
+  {
+    "locality_name": "Goregaon East",
+    "locality_id": "ZWL006938"
+  },
+  {
+    "locality_name": "Santacruz East",
+    "locality_id": "ZWL008550"
+  },
+  {
+    "locality_name": "Ghatkopar East, Mumbai",
+    "locality_id": "ZWL004494"
+  },
+  {
+    "locality_name": "Palava",
+    "locality_id": "ZWL003708"
+  },
+  {
+    "locality_name": "Malad West",
+    "locality_id": "ZWL008711"
+  },
+  {
+    "locality_name": "Borivali East",
+    "locality_id": "ZWL005991"
+  },
+  {
+    "locality_name": "Kalyan,West,Mumbai",
+    "locality_id": "ZWL002865"
+  },
+  {
+    "locality_name": "Santacruz West",
+    "locality_id": "ZWL004749"
+  },
+  {
+    "locality_name": "Badlapur, Mumbai",
+    "locality_id": "ZWL001274"
+  },
+  {
+    "locality_name": "Ambernath",
+    "locality_id": "ZWL007699"
+  },
+  {
+    "locality_name": "Marine lines",
+    "locality_id": "ZWL001764"
+  },
+  {
+    "locality_name": "Mulund West",
+    "locality_id": "ZWL002921"
+  },
+  {
+    "locality_name": "Airoli",
+    "locality_id": "ZWL001410"
+  },
+  {
+    "locality_name": "Kharghar (Navi Mumbai)",
+    "locality_id": "ZWL009757"
+  },
+  {
+    "locality_name": "Ulhasnagar (Mumbai)",
+    "locality_id": "ZWL002059"
+  },
+  {
+    "locality_name": "Ghatkopar West, Mumbai",
+    "locality_id": "ZWL001058"
+  },
+  {
+    "locality_name": "Bandra West",
+    "locality_id": "ZWL006995"
+  },
+  {
+    "locality_name": "Dadar West",
+    "locality_id": "ZWL004692"
+  },
+  {
+    "locality_name": "Andheri West",
+    "locality_id": "ZWL007667"
+  },
+  {
+    "locality_name": "Vile Parle West",
+    "locality_id": "ZWL009338"
+  },
+  {
+    "locality_name": "Byculla",
+    "locality_id": "ZWL009167"
+  },
+  {
+    "locality_name": "Vasai",
+    "locality_id": "ZWL006032"
+  },
+  {
+    "locality_name": "Kalyan,East (Mumbai)",
+    "locality_id": "ZWL007397"
+  },
+  {
+    "locality_name": "Ulwe, Mumbai",
+    "locality_id": "ZWL009360"
+  },
+  {
+    "locality_name": "Fort",
+    "locality_id": "ZWL002205"
+  },
+  {
+    "locality_name": "Andheri East",
+    "locality_id": "ZWL008975"
+  },
+  {
+    "locality_name": "Chembur",
+    "locality_id": "ZWL009252"
+  },
+  {
+    "locality_name": "Palghar, Mumbai",
+    "locality_id": "ZWL002558"
+  },
+  {
+    "locality_name": "Mumbra, Mumbai",
+    "locality_id": "ZWL002742"
+  },
+  {
+    "locality_name": "Mulund East",
+    "locality_id": "ZWL004971"
+  },
+  {
+    "locality_name": "Shirdhon, Mumbai",
+    "locality_id": "ZWL008348"
+  },
+  {
+    "locality_name": "Virar",
+    "locality_id": "ZWL001344"
+  },
+  {
+    "locality_name": "Tardeo",
+    "locality_id": "ZWL007606"
+  },
+  {
+    "locality_name": "Bandra East",
+    "locality_id": "ZWL005697"
+  },
+  {
+    "locality_name": "Thane West",
+    "locality_id": "ZWL005442"
+  },
+  {
+    "locality_name": "Kurla West",
+    "locality_id": "ZWL004189"
+  },
+  {
+    "locality_name": "Goregaon West",
+    "locality_id": "ZWL005000"
+  },
+  {
+    "locality_name": "Hiranandani Estate",
+    "locality_id": "ZWL002056"
+  },
+  {
+    "locality_name": "Dombivli",
+    "locality_id": "ZWL009826"
+  },
+  {
+    "locality_name": "Bhandup West",
+    "locality_id": "ZWL007889"
+  },
+  {
+    "locality_name": "Kamothe",
+    "locality_id": "ZWL008977"
+  },
+  {
+    "locality_name": "Powai, Mumbai",
+    "locality_id": "ZWL006622"
+  },
+  {
+    "locality_name": "Naupada",
+    "locality_id": "ZWL002074"
+  },
+  {
+    "locality_name": "Bhayandar West",
+    "locality_id": "ZWL008874"
+  },
+  {
+    "locality_name": "Vileparle East",
+    "locality_id": "ZWL001334"
+  },
+  {
+    "locality_name": "Sion",
+    "locality_id": "ZWL008378"
+  },
+  {
+    "locality_name": "Nerul (Navi Mumbai)",
+    "locality_id": "ZWL007690"
+  },
+  {
+    "locality_name": "Dahisar West",
+    "locality_id": "ZWL007706"
+  },
+  {
+    "locality_name": "Colaba",
+    "locality_id": "ZWL005320"
+  },
+  {
+    "locality_name": "Mahim",
+    "locality_id": "ZWL006544"
+  },
+  {
+    "locality_name": "Wadala",
+    "locality_id": "ZWL002686"
+  },
+  {
+    "locality_name": "Borivali West",
+    "locality_id": "ZWL001089"
+  },
+  {
+    "locality_name": "Palava Lakeshore,Mumbai",
+    "locality_id": "ZWL008360"
+  },
+  {
+    "locality_name": "Banashankari",
+    "locality_id": "ZWL003467"
+  },
+  {
+    "locality_name": "Rajarajeshwari Nagar",
+    "locality_id": "ZWL004900"
+  },
+  {
+    "locality_name": "JP Nagar",
+    "locality_id": "ZWL005530"
+  },
+  {
+    "locality_name": "Mahadevapura",
+    "locality_id": "ZWL007643"
+  },
+  {
+    "locality_name": "Jalahalli",
+    "locality_id": "ZWL003159"
+  },
+  {
+    "locality_name": "RT Nagar",
+    "locality_id": "ZWL002736"
+  },
+  {
+    "locality_name": "KR Puram",
+    "locality_id": "ZWL006369"
+  },
+  {
+    "locality_name": "Electronic City",
+    "locality_id": "ZWL006274"
+  },
+  {
+    "locality_name": "Vijayanagar",
+    "locality_id": "ZWL005375"
+  },
+  {
+    "locality_name": "Marathahalli",
+    "locality_id": "ZWL008600"
+  },
+  {
+    "locality_name": "Sarjapur road",
+    "locality_id": "ZWL002292"
+  },
+  {
+    "locality_name": "Brookefields",
+    "locality_id": "ZWL004341"
+  },
+  {
+    "locality_name": "Whitefield",
+    "locality_id": "ZWL007633"
+  },
+  {
+    "locality_name": "Nagavara",
+    "locality_id": "ZWL009212"
+  },
+  {
+    "locality_name": "New BEL Road",
+    "locality_id": "ZWL007628"
+  },
+  {
+    "locality_name": "Koramangala",
+    "locality_id": "ZWL001156"
+  },
+  {
+    "locality_name": "Bannerghatta Road, Bangalore",
+    "locality_id": "ZWL004924"
+  },
+  {
+    "locality_name": "Aavalahalli",
+    "locality_id": "ZWL009229"
+  },
+  {
+    "locality_name": "BIAL Airport Road",
+    "locality_id": "ZWL005576"
+  },
+  {
+    "locality_name": "Yelahanka",
+    "locality_id": "ZWL006658"
+  },
+  {
+    "locality_name": "Kadugodi",
+    "locality_id": "ZWL002882"
+  },
+  {
+    "locality_name": "Kammanahalli",
+    "locality_id": "ZWL006631"
+  },
+  {
+    "locality_name": "HSR Layout",
+    "locality_id": "ZWL001196"
+  },
+  {
+    "locality_name": "BTM Layout",
+    "locality_id": "ZWL006600"
+  },
+  {
+    "locality_name": "Varthur",
+    "locality_id": "ZWL006854"
+  },
+  {
+    "locality_name": "Indiranagar",
+    "locality_id": "ZWL001273"
+  },
+  {
+    "locality_name": "Jayanagar",
+    "locality_id": "ZWL008105"
+  },
+  {
+    "locality_name": "Sahakaranagar",
+    "locality_id": "ZWL005206"
+  },
+  {
+    "locality_name": "Devanahalli, Bangalore",
+    "locality_id": "ZWL008797"
+  },
+  {
+    "locality_name": "MG Road",
+    "locality_id": "ZWL001962"
+  },
+  {
+    "locality_name": "Rajajinagar",
+    "locality_id": "ZWL006844"
+  },
+  {
+    "locality_name": "Bellandur",
+    "locality_id": "ZWL004164"
+  },
+  {
+    "locality_name": "NIGDI(Pune)",
+    "locality_id": "ZWL007698"
+  },
+  {
+    "locality_name": "Bibvewadi (Pune)",
+    "locality_id": "ZWL005773"
+  },
+  {
+    "locality_name": "Nanded-Nahre",
+    "locality_id": "ZWL009577"
+  },
+  {
+    "locality_name": "Bhosari (Pune)",
+    "locality_id": "ZWL002253"
+  },
+  {
+    "locality_name": "Camp Area",
+    "locality_id": "ZWL003498"
+  },
+  {
+    "locality_name": "Magarpatta",
+    "locality_id": "ZWL004311"
+  },
+  {
+    "locality_name": "Pimpri",
+    "locality_id": "ZWL007801"
+  },
+  {
+    "locality_name": "Yerwada",
+    "locality_id": "ZWL008134"
+  },
+  {
+    "locality_name": "Kalyani Nagar (Pune)",
+    "locality_id": "ZWL009625"
+  },
+  {
+    "locality_name": "Sus, Pune",
+    "locality_id": "ZWL001627"
+  },
+  {
+    "locality_name": "Bavdhan",
+    "locality_id": "ZWL006236"
+  },
+  {
+    "locality_name": "Viman nagar",
+    "locality_id": "ZWL006743"
+  },
+  {
+    "locality_name": "Aundh (Pune)",
+    "locality_id": "ZWL004927"
+  },
+  {
+    "locality_name": "Katraj (Pune)",
+    "locality_id": "ZWL008370"
+  },
+  {
+    "locality_name": "Pimple Saudagar_Pune",
+    "locality_id": "ZWL004523"
+  },
+  {
+    "locality_name": "Dhanori",
+    "locality_id": "ZWL001778"
+  },
+  {
+    "locality_name": "Dehu Road",
+    "locality_id": "ZWL003386"
+  },
+  {
+    "locality_name": "Koregaon Park (Pune)",
+    "locality_id": "ZWL009157"
+  },
+  {
+    "locality_name": "Hinjewadi - Phase 2",
+    "locality_id": "ZWL004962"
+  },
+  {
+    "locality_name": "Wakad_Pune",
+    "locality_id": "ZWL005340"
+  },
+  {
+    "locality_name": "Manas Lake, Pune",
+    "locality_id": "ZWL009671"
+  },
+  {
+    "locality_name": "Sadashiv Peth",
+    "locality_id": "ZWL008921"
+  },
+  {
+    "locality_name": "Ghorpadi (Pune)",
+    "locality_id": "ZWL008940"
+  },
+  {
+    "locality_name": "Pashan (Pune)",
+    "locality_id": "ZWL009874"
+  },
+  {
+    "locality_name": "SP Infocity, Pune",
+    "locality_id": "ZWL006660"
+  },
+  {
+    "locality_name": "Manjri,Pune",
+    "locality_id": "ZWL003813"
+  },
+  {
+    "locality_name": "Khadki, Pune",
+    "locality_id": "ZWL007471"
+  },
+  {
+    "locality_name": "Kothrud (Pune)",
+    "locality_id": "ZWL009602"
+  },
+  {
+    "locality_name": "Sinhagad Road(Pune)",
+    "locality_id": "ZWL002208"
+  },
+  {
+    "locality_name": "New Sangvi, Pune",
+    "locality_id": "ZWL007895"
+  },
+  {
+    "locality_name": "Nimgaon, Pune",
+    "locality_id": "ZWL003099"
+  },
+  {
+    "locality_name": "Wagholi",
+    "locality_id": "ZWL004575"
+  },
+  {
+    "locality_name": "Keshavnagar, Pune",
+    "locality_id": "ZWL004513"
+  },
+  {
+    "locality_name": "Baner (Pune)",
+    "locality_id": "ZWL008983"
+  },
+  {
+    "locality_name": "Warje (Pune)",
+    "locality_id": "ZWL005520"
+  },
+  {
+    "locality_name": "Mundwa, Pune",
+    "locality_id": "ZWL003300"
+  },
+  {
+    "locality_name": "Chakan",
+    "locality_id": "ZWL001963"
+  },
+  {
+    "locality_name": "Shivaji Nagar (Pune)",
+    "locality_id": "ZWL002422"
+  },
+  {
+    "locality_name": "Yewalewadi, Pune",
+    "locality_id": "ZWL005088"
+  },
+  {
+    "locality_name": "Bopkhel, Pune",
+    "locality_id": "ZWL003014"
+  },
+  {
+    "locality_name": "Kharadi",
+    "locality_id": "ZWL001472"
+  },
+  {
+    "locality_name": "Talegaon Dabhade",
+    "locality_id": "ZWL004339"
+  },
+  {
+    "locality_name": "Hinjewadi - Phase 1",
+    "locality_id": "ZWL003817"
+  },
+  {
+    "locality_name": "Wanowrie-Kondhwa",
+    "locality_id": "ZWL007925"
+  },
+  {
+    "locality_name": "Nagole",
+    "locality_id": "ZWL003370"
+  },
+  {
+    "locality_name": "Attapur",
+    "locality_id": "ZWL002088"
+  },
+  {
+    "locality_name": "Peerzadiguda",
+    "locality_id": "ZWL006702"
+  },
+  {
+    "locality_name": "Begumpet",
+    "locality_id": "ZWL008776"
+  },
+  {
+    "locality_name": "Suraram, Hyderabad",
+    "locality_id": "ZWL003918"
+  },
+  {
+    "locality_name": "Banjara Hills",
+    "locality_id": "ZWL004079"
+  },
+  {
+    "locality_name": "Alwal",
+    "locality_id": "ZWL008309"
+  },
+  {
+    "locality_name": "Sainikpuri",
+    "locality_id": "ZWL002433"
+  },
+  {
+    "locality_name": "Saroor Nagar",
+    "locality_id": "ZWL007390"
+  },
+  {
+    "locality_name": "Karkhana",
+    "locality_id": "ZWL004767"
+  },
+  {
+    "locality_name": "Kompally",
+    "locality_id": "ZWL006016"
+  },
+  {
+    "locality_name": "Himayatnagar",
+    "locality_id": "ZWL003283"
+  },
+  {
+    "locality_name": "Medchal Road",
+    "locality_id": "ZWL007311"
+  },
+  {
+    "locality_name": "Kukatpally",
+    "locality_id": "ZWL005919"
+  },
+  {
+    "locality_name": "Amberpet",
+    "locality_id": "ZWL001822"
+  },
+  {
+    "locality_name": "Jeedimetla",
+    "locality_id": "ZWL008208"
+  },
+  {
+    "locality_name": "Gachibowli",
+    "locality_id": "ZWL001362"
+  },
+  {
+    "locality_name": "LB Nagar",
+    "locality_id": "ZWL002162"
+  },
+  {
+    "locality_name": "Dilsukhnagar",
+    "locality_id": "ZWL009712"
+  },
+  {
+    "locality_name": "Masab Tank",
+    "locality_id": "ZWL005963"
+  },
+  {
+    "locality_name": "Bachupally",
+    "locality_id": "ZWL008297"
+  },
+  {
+    "locality_name": "Manikonda",
+    "locality_id": "ZWL005424"
+  },
+  {
+    "locality_name": "Shamshabad",
+    "locality_id": "ZWL008585"
+  },
+  {
+    "locality_name": "Miyapur",
+    "locality_id": "ZWL008599"
+  },
+  {
+    "locality_name": "Hayath Nagar, Hyderabad",
+    "locality_id": "ZWL006535"
+  },
+  {
+    "locality_name": "Sangareddy, Hyderabad",
+    "locality_id": "ZWL006545"
+  },
+  {
+    "locality_name": "JNTU",
+    "locality_id": "ZWL009719"
+  },
+  {
+    "locality_name": "Serilingampally",
+    "locality_id": "ZWL008890"
+  },
+  {
+    "locality_name": "Nizampet",
+    "locality_id": "ZWL007119"
+  },
+  {
+    "locality_name": "Q City, Hyderabad",
+    "locality_id": "ZWL004747"
+  },
+  {
+    "locality_name": "Madhapur",
+    "locality_id": "ZWL004802"
+  },
+  {
+    "locality_name": "Narayanguda",
+    "locality_id": "ZWL004665"
+  },
+  {
+    "locality_name": "ECIL",
+    "locality_id": "ZWL005999"
+  },
+  {
+    "locality_name": "Toli Chowki",
+    "locality_id": "ZWL003360"
+  },
+  {
+    "locality_name": "Kondapur",
+    "locality_id": "ZWL007187"
+  },
+  {
+    "locality_name": "Charminar",
+    "locality_id": "ZWL007344"
+  },
+  {
+    "locality_name": "Sivarampalli",
+    "locality_id": "ZWL008438"
+  },
+  {
+    "locality_name": "Tarnaka",
+    "locality_id": "ZWL005494"
+  },
+  {
+    "locality_name": "Moosapet",
+    "locality_id": "ZWL009519"
+  },
+  {
+    "locality_name": "Patancheru, Hyderabad",
+    "locality_id": "ZWL001687"
+  },
+  {
+    "locality_name": "Vanasthali Puram",
+    "locality_id": "ZWL005569"
+  },
+  {
+    "locality_name": "Ameerpet",
+    "locality_id": "ZWL003027"
+  },
+  {
+    "locality_name": "Uppal",
+    "locality_id": "ZWL001337"
+  },
+  {
+    "locality_name": "Malakpet",
+    "locality_id": "ZWL001579"
+  },
+  {
+    "locality_name": "Hafiz Baba Nagar",
+    "locality_id": "ZWL006699"
+  },
+  {
+    "locality_name": "Mokila, Hyderabad",
+    "locality_id": "ZWL008512"
+  },
+  {
+    "locality_name": "Potheri",
+    "locality_id": "ZWL006789"
+  },
+  {
+    "locality_name": "Pallavaram",
+    "locality_id": "ZWL004297"
+  },
+  {
+    "locality_name": "Nungambakkam",
+    "locality_id": "ZWL005190"
+  },
+  {
+    "locality_name": "Anna Nagar, Chennai",
+    "locality_id": "ZWL003967"
+  },
+  {
+    "locality_name": "Perambur",
+    "locality_id": "ZWL008996"
+  },
+  {
+    "locality_name": "Mogappair, Chennai",
+    "locality_id": "ZWL005857"
+  },
+  {
+    "locality_name": "Royapuram",
+    "locality_id": "ZWL006232"
+  },
+  {
+    "locality_name": "Mugalivakkam",
+    "locality_id": "ZWL008548"
+  },
+  {
+    "locality_name": "Porur",
+    "locality_id": "ZWL006053"
+  },
+  {
+    "locality_name": "Redhills",
+    "locality_id": "ZWL001398"
+  },
+  {
+    "locality_name": "Tambaram",
+    "locality_id": "ZWL001701"
+  },
+  {
+    "locality_name": "Avadi",
+    "locality_id": "ZWL008876"
+  },
+  {
+    "locality_name": "Kilpauk",
+    "locality_id": "ZWL003387"
+  },
+  {
+    "locality_name": "Ashok Nagar (CHENNAI)",
+    "locality_id": "ZWL007059"
+  },
+  {
+    "locality_name": "Adyar",
+    "locality_id": "ZWL006520"
+  },
+  {
+    "locality_name": "Alwarpet",
+    "locality_id": "ZWL001210"
+  },
+  {
+    "locality_name": "Selaiyur",
+    "locality_id": "ZWL007171"
+  },
+  {
+    "locality_name": "Thandalam, Chennai",
+    "locality_id": "ZWL006329"
+  },
+  {
+    "locality_name": "Sholinganallur",
+    "locality_id": "ZWL004233"
+  },
+  {
+    "locality_name": "Ambattur",
+    "locality_id": "ZWL007209"
+  },
+  {
+    "locality_name": "Medavakkam",
+    "locality_id": "ZWL003452"
+  },
+  {
+    "locality_name": "Poonamallee",
+    "locality_id": "ZWL007176"
+  },
+  {
+    "locality_name": "Minjur, Chennai",
+    "locality_id": "ZWL009897"
+  },
+  {
+    "locality_name": "Urapakkam",
+    "locality_id": "ZWL004882"
+  },
+  {
+    "locality_name": "Velachery",
+    "locality_id": "ZWL006156"
+  },
+  {
+    "locality_name": "Navallur",
+    "locality_id": "ZWL001141"
+  },
+  {
+    "locality_name": "Vadapalani",
+    "locality_id": "ZWL004431"
+  },
+  {
+    "locality_name": "T Nagar",
+    "locality_id": "ZWL001516"
+  },
+  {
+    "locality_name": "Hazratganj",
+    "locality_id": "ZWL003425"
+  },
+  {
+    "locality_name": "Aminabad",
+    "locality_id": "ZWL006490"
+  },
+  {
+    "locality_name": "Chowk",
+    "locality_id": "ZWL009091"
+  },
+  {
+    "locality_name": "Telibagh, Lucknow",
+    "locality_id": "ZWL003030"
+  },
+  {
+    "locality_name": "Husainganj",
+    "locality_id": "ZWL004978"
+  },
+  {
+    "locality_name": "Jankipuram",
+    "locality_id": "ZWL009177"
+  },
+  {
+    "locality_name": "Arjunganj",
+    "locality_id": "ZWL004436"
+  },
+  {
+    "locality_name": "Chinhat, Lucknow",
+    "locality_id": "ZWL005470"
+  },
+  {
+    "locality_name": "Mahanagar",
+    "locality_id": "ZWL001500"
+  },
+  {
+    "locality_name": "Ashiyana",
+    "locality_id": "ZWL003371"
+  },
+  {
+    "locality_name": "Indira Nagar, Lucknow",
+    "locality_id": "ZWL003635"
+  },
+  {
+    "locality_name": "Vasant Kunj, Lucknow",
+    "locality_id": "ZWL003320"
+  },
+  {
+    "locality_name": "Rajajipuram",
+    "locality_id": "ZWL009682"
+  },
+  {
+    "locality_name": "Gomti Nagar",
+    "locality_id": "ZWL002273"
+  },
+  {
+    "locality_name": "Alambagh",
+    "locality_id": "ZWL002331"
+  },
+  {
+    "locality_name": "Aliganj, Lucknow",
+    "locality_id": "ZWL007731"
+  },
+  {
+    "locality_name": "Kalyanpur",
+    "locality_id": "ZWL007011"
+  },
+  {
+    "locality_name": "Eroor",
+    "locality_id": "ZWL003768"
+  },
+  {
+    "locality_name": "Kakkanad",
+    "locality_id": "ZWL005555"
+  },
+  {
+    "locality_name": "Nedumbassery,Kochi",
+    "locality_id": "ZWL002986"
+  },
+  {
+    "locality_name": "North Paravur, Kochi",
+    "locality_id": "ZWL004273"
+  },
+  {
+    "locality_name": "Aluva, Kochi",
+    "locality_id": "ZWL005425"
+  },
+  {
+    "locality_name": "Ambalamugal",
+    "locality_id": "ZWL004691"
+  },
+  {
+    "locality_name": "Kalamassery",
+    "locality_id": "ZWL001981"
+  },
+  {
+    "locality_name": "Kaloor",
+    "locality_id": "ZWL003786"
+  },
+  {
+    "locality_name": "Perumbavoor,Kochi",
+    "locality_id": "ZWL009487"
+  },
+  {
+    "locality_name": "Thiruvankulam",
+    "locality_id": "ZWL007216"
+  },
+  {
+    "locality_name": "Vypin, Kochi",
+    "locality_id": "ZWL002327"
+  },
+  {
+    "locality_name": "Ernakulam",
+    "locality_id": "ZWL006873"
+  },
+  {
+    "locality_name": "Fort Kochi",
+    "locality_id": "ZWL004591"
+  },
+  {
+    "locality_name": "Mansarovar-2",
+    "locality_id": "ZWL005082"
+  },
+  {
+    "locality_name": "Tonk road 2",
+    "locality_id": "ZWL003863"
+  },
+  {
+    "locality_name": "Jagatpura",
+    "locality_id": "ZWL009286"
+  },
+  {
+    "locality_name": "Shyam Nagar",
+    "locality_id": "ZWL009458"
+  },
+  {
+    "locality_name": "C Scheme",
+    "locality_id": "ZWL003704"
+  },
+  {
+    "locality_name": "Lal Kothi",
+    "locality_id": "ZWL003606"
+  },
+  {
+    "locality_name": "Pink City",
+    "locality_id": "ZWL009569"
+  },
+  {
+    "locality_name": "Vaishali Nagar",
+    "locality_id": "ZWL001750"
+  },
+  {
+    "locality_name": "Malviya Nagar",
+    "locality_id": "ZWL002751"
+  },
+  {
+    "locality_name": "Sodala",
+    "locality_id": "ZWL005080"
+  },
+  {
+    "locality_name": "Vidhyadhar Nagar",
+    "locality_id": "ZWL008680"
+  },
+  {
+    "locality_name": "Raja Park",
+    "locality_id": "ZWL008249"
+  },
+  {
+    "locality_name": "Shastri Nagar",
+    "locality_id": "ZWL008915"
+  },
+  {
+    "locality_name": "Pratap Nagar",
+    "locality_id": "ZWL006372"
+  },
+  {
+    "locality_name": "Paldi",
+    "locality_id": "ZWL003133"
+  },
+  {
+    "locality_name": "Shahibag",
+    "locality_id": "ZWL002302"
+  },
+  {
+    "locality_name": "Navrangpura",
+    "locality_id": "ZWL003747"
+  },
+  {
+    "locality_name": "Chandkheda",
+    "locality_id": "ZWL002503"
+  },
+  {
+    "locality_name": "Science-City Sola",
+    "locality_id": "ZWL005979"
+  },
+  {
+    "locality_name": "Sector 16, Gandhinagar",
+    "locality_id": "ZWL005987"
+  },
+  {
+    "locality_name": "Vastrapur",
+    "locality_id": "ZWL001959"
+  },
+  {
+    "locality_name": "Prahlad Nagar",
+    "locality_id": "ZWL007404"
+  },
+  {
+    "locality_name": "Nikol",
+    "locality_id": "ZWL001898"
+  },
+  {
+    "locality_name": "Infocity, Gandhinagar",
+    "locality_id": "ZWL002250"
+  },
+  {
+    "locality_name": "Naranpura",
+    "locality_id": "ZWL004415"
+  },
+  {
+    "locality_name": "Bopal",
+    "locality_id": "ZWL006288"
+  },
+  {
+    "locality_name": "Maninagar",
+    "locality_id": "ZWL009182"
+  },
+  {
+    "locality_name": "Bodakdev",
+    "locality_id": "ZWL009990"
+  },
+  {
+    "locality_name": "Gota",
+    "locality_id": "ZWL003455"
+  },
+  {
+    "locality_name": "Sector 15 (Chandigarh)",
+    "locality_id": "ZWL007561"
+  },
+  {
+    "locality_name": "Sector 8 (Chandigarh)",
+    "locality_id": "ZWL006687"
+  },
+  {
+    "locality_name": "Manimajra (Chandigarh)",
+    "locality_id": "ZWL001934"
+  },
+  {
+    "locality_name": "Industrial Area Phase I (Chandigarh)",
+    "locality_id": "ZWL003936"
+  },
+  {
+    "locality_name": "Sector 59 (Chandigarh)",
+    "locality_id": "ZWL004716"
+  },
+  {
+    "locality_name": "Sector 20, Panchkula",
+    "locality_id": "ZWL002303"
+  },
+  {
+    "locality_name": "Sector 8/9 nd  Panchkula",
+    "locality_id": "ZWL009521"
+  },
+  {
+    "locality_name": "Sector 28 (Chandigarh)",
+    "locality_id": "ZWL006817"
+  },
+  {
+    "locality_name": "Phase 10 Mohali",
+    "locality_id": "ZWL003496"
+  },
+  {
+    "locality_name": "Gillco, Chandigarh",
+    "locality_id": "ZWL009894"
+  },
+  {
+    "locality_name": "Sector 46 (Chandigarh)",
+    "locality_id": "ZWL004101"
+  },
+  {
+    "locality_name": "Sector 70 (Chandigarh)",
+    "locality_id": "ZWL003262"
+  },
+  {
+    "locality_name": "VIP Road, Zirakpur",
+    "locality_id": "ZWL009430"
+  },
+  {
+    "locality_name": "VR Mall",
+    "locality_id": "ZWL004196"
+  },
+  {
+    "locality_name": "Sector 35 (Chandigarh)",
+    "locality_id": "ZWL003093"
+  },
+  {
+    "locality_name": "Sector 22 (Chandigarh)",
+    "locality_id": "ZWL009406"
+  },
+  {
+    "locality_name": "Verna, Goa",
+    "locality_id": "ZWL002150"
+  },
+  {
+    "locality_name": "Mapusa, Goa",
+    "locality_id": "ZWL008519"
+  },
+  {
+    "locality_name": "Calangute, Goa",
+    "locality_id": "ZWL004452"
+  },
+  {
+    "locality_name": "Majorda, Goa",
+    "locality_id": "ZWL006556"
+  },
+  {
+    "locality_name": "Upper panaji, Goa",
+    "locality_id": "ZWL002137"
+  },
+  {
+    "locality_name": "Ponda, Goa",
+    "locality_id": "ZWL005093"
+  },
+  {
+    "locality_name": "Margao, Goa",
+    "locality_id": "ZWL002142"
+  },
+  {
+    "locality_name": "Vasco, Goa",
+    "locality_id": "ZWL004621"
+  },
+  {
+    "locality_name": "Morjim, Goa",
+    "locality_id": "ZWL006403"
+  },
+  {
+    "locality_name": "Porvorim, Goa",
+    "locality_id": "ZWL005568"
+  },
+  {
+    "locality_name": "Sector 32, Ludhiana",
+    "locality_id": "ZWL009021"
+  },
+  {
+    "locality_name": "Civil Lines, Ludhiana",
+    "locality_id": "ZWL006208"
+  },
+  {
+    "locality_name": "Sarabha Nagar, Ludhiana",
+    "locality_id": "ZWL006788"
+  },
+  {
+    "locality_name": "BRS Nagar, Ludhiana",
+    "locality_id": "ZWL005256"
+  },
+  {
+    "locality_name": "Model Town, Ludhiana",
+    "locality_id": "ZWL001163"
+  },
+  {
+    "locality_name": "Ganesh Nagar, Ludhiana",
+    "locality_id": "ZWL003304"
+  },
+  {
+    "locality_name": "Dugri,Ludhiana",
+    "locality_id": "ZWL003119"
+  },
+  {
+    "locality_name": "Pathar Quarry, Guwahati",
+    "locality_id": "ZWL006981"
+  },
+  {
+    "locality_name": "Basistha-Lokhra, Guwahati",
+    "locality_id": "ZWL006537"
+  },
+  {
+    "locality_name": "North Guwahati, Guwahati",
+    "locality_id": "ZWL009407"
+  },
+  {
+    "locality_name": "Dharapur, Guwahati",
+    "locality_id": "ZWL004763"
+  },
+  {
+    "locality_name": "Lal Ganesh - Kahilipara, Guwahati",
+    "locality_id": "ZWL007095"
+  },
+  {
+    "locality_name": "Paltan-Bazar, Guwahati",
+    "locality_id": "ZWL002105"
+  },
+  {
+    "locality_name": "Azara, Guwahati",
+    "locality_id": "ZWL003362"
+  },
+  {
+    "locality_name": "Changsari, Guwahati",
+    "locality_id": "ZWL002491"
+  },
+  {
+    "locality_name": "Maligaon - Jalukbari, Guwahati",
+    "locality_id": "ZWL005319"
+  },
+  {
+    "locality_name": "Zoo Tiniali - Christian basti",
+    "locality_id": "ZWL005708"
+  },
+  {
+    "locality_name": "Himatpura, Amritsar",
+    "locality_id": "ZWL001780"
+  },
+  {
+    "locality_name": "Rasulpur, Amritsar",
+    "locality_id": "ZWL008281"
+  },
+  {
+    "locality_name": "Ranjit Avenue, Amritsar",
+    "locality_id": "ZWL004590"
+  },
+  {
+    "locality_name": "White Avenue, Amritsar",
+    "locality_id": "ZWL002073"
+  },
+  {
+    "locality_name": "Chheharta, Amritsar",
+    "locality_id": "ZWL005826"
+  },
+  {
+    "locality_name": "Hall Bazar, Amritsar",
+    "locality_id": "ZWL007456"
+  },
+  {
+    "locality_name": "Ashoka Garden, Bhopal",
+    "locality_id": "ZWL008755"
+  },
+  {
+    "locality_name": "Shahpura,Bhopal",
+    "locality_id": "ZWL009428"
+  },
+  {
+    "locality_name": "Airport Area, Bhopal",
+    "locality_id": "ZWL006900"
+  },
+  {
+    "locality_name": "TT Nagar, Bhopal",
+    "locality_id": "ZWL002615"
+  },
+  {
+    "locality_name": "BHEL, Bhopal",
+    "locality_id": "ZWL003463"
+  },
+  {
+    "locality_name": "MP Nagar,Bhopal",
+    "locality_id": "ZWL002872"
+  },
+  {
+    "locality_name": "Hoshangabad Road, Bhopal",
+    "locality_id": "ZWL005836"
+  },
+  {
+    "locality_name": "People's Mall, Bhopal",
+    "locality_id": "ZWL003417"
+  },
+  {
+    "locality_name": "NAD, Vizag",
+    "locality_id": "ZWL001466"
+  },
+  {
+    "locality_name": "Gajuwaka",
+    "locality_id": "ZWL003024"
+  },
+  {
+    "locality_name": "Dwaraka Nagar",
+    "locality_id": "ZWL004755"
+  },
+  {
+    "locality_name": "Madhurawada",
+    "locality_id": "ZWL009959"
+  },
+  {
+    "locality_name": "Madhusudan Nagar, Bhubaneswar",
+    "locality_id": "ZWL007491"
+  },
+  {
+    "locality_name": "Kalinga Nagar, Bhubneshwar",
+    "locality_id": "ZWL003084"
+  },
+  {
+    "locality_name": "Nayapalli, Bhubneshwar",
+    "locality_id": "ZWL003270"
+  },
+  {
+    "locality_name": "Sahid Nagar, Bhubaneshwar",
+    "locality_id": "ZWL007379"
+  },
+  {
+    "locality_name": "Lakshmi Sagar, Bhubneshwar",
+    "locality_id": "ZWL001823"
+  },
+  {
+    "locality_name": "Khandagiri, Bhubneshwar",
+    "locality_id": "ZWL004098"
+  },
+  {
+    "locality_name": "Jagmohan Nagar, Bhubaneswar",
+    "locality_id": "ZWL008906"
+  },
+  {
+    "locality_name": "Kharabela Nagar, Bhubaneswar",
+    "locality_id": "ZWL002821"
+  },
+  {
+    "locality_name": "Chandrasekharpur, Bhubaneswar",
+    "locality_id": "ZWL009572"
+  },
+  {
+    "locality_name": "Patia, Bhubneshwar",
+    "locality_id": "ZWL005652"
+  },
+  {
+    "locality_name": "Gandhipuram, Coimbatore",
+    "locality_id": "ZWL003661"
+  },
+  {
+    "locality_name": "Vadavalli",
+    "locality_id": "ZWL005742"
+  },
+  {
+    "locality_name": "RS Puram, Coimbatore",
+    "locality_id": "ZWL008653"
+  },
+  {
+    "locality_name": "Racecourse, Coimbatore",
+    "locality_id": "ZWL002703"
+  },
+  {
+    "locality_name": "Saibaba Colony, Coimbatore",
+    "locality_id": "ZWL009668"
+  },
+  {
+    "locality_name": "Peelamedu, Coimbatore",
+    "locality_id": "ZWL007527"
+  },
+  {
+    "locality_name": "Podanur, Coimbatore",
+    "locality_id": "ZWL005468"
+  },
+  {
+    "locality_name": "Kunniamuthur, Coimbatore",
+    "locality_id": "ZWL004408"
+  },
+  {
+    "locality_name": "Ondipudur, Coimbatore",
+    "locality_id": "ZWL008265"
+  },
+  {
+    "locality_name": "Koundampalayam",
+    "locality_id": "ZWL007600"
+  },
+  {
+    "locality_name": "Saravanampatty",
+    "locality_id": "ZWL002147"
+  },
+  {
+    "locality_name": "Ganapathypudur, Coimbatore",
+    "locality_id": "ZWL009595"
+  },
+  {
+    "locality_name": "Sitra, and Singanallur, Coimbatore",
+    "locality_id": "ZWL001279"
+  },
+  {
+    "locality_name": "South Mangalore",
+    "locality_id": "ZWL006449"
+  },
+  {
+    "locality_name": "Thokkattu, Mangalore",
+    "locality_id": "ZWL009478"
+  },
+  {
+    "locality_name": "Waghodia",
+    "locality_id": "ZWL002354"
+  },
+  {
+    "locality_name": "Fatehgunj",
+    "locality_id": "ZWL004097"
+  },
+  {
+    "locality_name": "Nizampura",
+    "locality_id": "ZWL009713"
+  },
+  {
+    "locality_name": "Diwalipura",
+    "locality_id": "ZWL008938"
+  },
+  {
+    "locality_name": "Akota",
+    "locality_id": "ZWL004439"
+  },
+  {
+    "locality_name": "Manjalpur, Vadodara",
+    "locality_id": "ZWL002446"
+  },
+  {
+    "locality_name": "Shubhanpura",
+    "locality_id": "ZWL008232"
+  },
+  {
+    "locality_name": "Alkapuri",
+    "locality_id": "ZWL002475"
+  },
+  {
+    "locality_name": "Pratap Nagar",
+    "locality_id": "ZWL005549"
+  },
+  {
+    "locality_name": "Sadar",
+    "locality_id": "ZWL001438"
+  },
+  {
+    "locality_name": "Kharabi, Nagpur",
+    "locality_id": "ZWL006432"
+  },
+  {
+    "locality_name": "Hanuman Nagar",
+    "locality_id": "ZWL009782"
+  },
+  {
+    "locality_name": "Dharampeth",
+    "locality_id": "ZWL008282"
+  },
+  {
+    "locality_name": "Manish Nagar",
+    "locality_id": "ZWL001041"
+  },
+  {
+    "locality_name": "Ayodhya Nagar, Nagpur",
+    "locality_id": "ZWL007188"
+  },
+  {
+    "locality_name": "Gandhibagh",
+    "locality_id": "ZWL003633"
+  },
+  {
+    "locality_name": "Central Mysore",
+    "locality_id": "ZWL002458"
+  },
+  {
+    "locality_name": "Udhna, Surat",
+    "locality_id": "ZWL005095"
+  },
+  {
+    "locality_name": "City Light, Surat",
+    "locality_id": "ZWL002155"
+  },
+  {
+    "locality_name": "Athwa",
+    "locality_id": "ZWL007951"
+  },
+  {
+    "locality_name": "Vesu, Surat",
+    "locality_id": "ZWL006000"
+  },
+  {
+    "locality_name": "Adajan, Surat",
+    "locality_id": "ZWL008198"
+  },
+  {
+    "locality_name": "Varaccha, Surat",
+    "locality_id": "ZWL002771"
+  },
+  {
+    "locality_name": "New Textile Market, Surat",
+    "locality_id": "ZWL005626"
+  },
+  {
+    "locality_name": "Katargam, Surat",
+    "locality_id": "ZWL005423"
+  },
+  {
+    "locality_name": "Kazhakoottam, Thiruvananthapuram",
+    "locality_id": "ZWL009343"
+  },
+  {
+    "locality_name": "Tvm Central",
+    "locality_id": "ZWL007746"
+  },
+  {
+    "locality_name": "Nemom, Thiruvananthapuram",
+    "locality_id": "ZWL002223"
+  },
+  {
+    "locality_name": "Governorpet, Vijayawada",
+    "locality_id": "ZWL005308"
+  },
+  {
+    "locality_name": "Gunadala, Vijayawada",
+    "locality_id": "ZWL004428"
+  },
+  {
+    "locality_name": "Gollapudi, Vijayawada",
+    "locality_id": "ZWL002106"
+  },
+  {
+    "locality_name": "Auto Nagar, Vijayawada",
+    "locality_id": "ZWL005858"
+  },
+  {
+    "locality_name": "Labbipet, Vijayawada",
+    "locality_id": "ZWL003905"
+  },
+  {
+    "locality_name": "Shastri Nagar, Jalandhar",
+    "locality_id": "ZWL009921"
+  },
+  {
+    "locality_name": "Gurdev Nagar, Jalandhar",
+    "locality_id": "ZWL002344"
+  },
+  {
+    "locality_name": "Paragpur, Jalandhar",
+    "locality_id": "ZWL001077"
+  },
+  {
+    "locality_name": "Model Town, Jalandhar",
+    "locality_id": "ZWL005408"
+  },
+  {
+    "locality_name": "Basti Nau, Jalandhar",
+    "locality_id": "ZWL001624"
+  },
+  {
+    "locality_name": "Rama Mandi, Jalandhar",
+    "locality_id": "ZWL004713"
+  },
+  {
+    "locality_name": "Greater Kailash, Jammu",
+    "locality_id": "ZWL007457"
+  },
+  {
+    "locality_name": "Barnai, Jammu",
+    "locality_id": "ZWL005892"
+  },
+  {
+    "locality_name": "Gandhi Nagar, Jammu",
+    "locality_id": "ZWL008753"
+  },
+  {
+    "locality_name": "OLD JAMMU, Jammu",
+    "locality_id": "ZWL008047"
+  },
+  {
+    "locality_name": "Channi Himmat, Jammu",
+    "locality_id": "ZWL002687"
+  },
+  {
+    "locality_name": "Shankar Nagar, Raipur",
+    "locality_id": "ZWL003195"
+  },
+  {
+    "locality_name": "Purena, Raipur",
+    "locality_id": "ZWL009896"
+  },
+  {
+    "locality_name": "Mowa, Raipur",
+    "locality_id": "ZWL001038"
+  },
+  {
+    "locality_name": "Mahaveer Nagar",
+    "locality_id": "ZWL008872"
+  },
+  {
+    "locality_name": "Samta Colony, Raipur",
+    "locality_id": "ZWL004310"
+  },
+  {
+    "locality_name": "Civil Lines, Raipur",
+    "locality_id": "ZWL006651"
+  },
+  {
+    "locality_name": "Devendra Nagar",
+    "locality_id": "ZWL008695"
+  },
+  {
+    "locality_name": "Moudhapara, Raipur",
+    "locality_id": "ZWL008436"
+  }
+]
