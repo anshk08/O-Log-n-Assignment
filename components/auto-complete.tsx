@@ -19,14 +19,12 @@ export default function Autocomplete() {
   const router = useRouter();
 
   useEffect(() => {
-    // Fetch localities from JSON file
     fetch("/localities.json")
       .then((response) => response.json())
       .then((data) => setAllLocalities(data));
   }, []);
 
   useEffect(() => {
-    // Filter suggestions based on input value
     if (inputValue.length > 0) {
       const filteredSuggestions = allLocalities.filter((locality) =>
         locality.locality_name.toLowerCase().includes(inputValue.toLowerCase())
@@ -40,16 +38,15 @@ export default function Autocomplete() {
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setInputValue(e.target.value);
     if (e.target.value.length === 0) {
-      setShowSuggestions(true); // Show all suggestions when input is cleared
+      setShowSuggestions(true);
     }
   };
 
   const handleClick = () => {
-    setShowSuggestions(true); // Show all suggestions when input is clicked
+    setShowSuggestions(true);
   };
 
   const handleBlur = () => {
-    // Hide suggestions when input loses focus
     setTimeout(() => setShowSuggestions(false), 200);
   };
 

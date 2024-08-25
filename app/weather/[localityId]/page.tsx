@@ -1,11 +1,10 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
 import { useParams } from "next/navigation";
-import { Button } from "@/components/ui/button";
 import Autocomplete from "@/components/auto-complete";
 import { getLocalityData } from "@/lib/utils";
+import { Loader2 } from "lucide-react";
 
 interface WeatherData {
   temperature: number;
@@ -60,7 +59,9 @@ const WeatherDetails: React.FC = () => {
             </div>
           </div>
         ) : (
-          <p>Loading...</p>
+          <div className="flex items-center justify-center">
+            <Loader2 className="animate-spin text-blue-500 size-8" />
+          </div>
         )}
       </div>
     </div>

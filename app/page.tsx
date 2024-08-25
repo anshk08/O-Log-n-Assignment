@@ -1,9 +1,9 @@
 import React from "react";
 import Autocomplete from "@/components/auto-complete";
-import { Carter_One } from "next/font/google";
+import { Bricolage_Grotesque } from "next/font/google";
 import { cn } from "@/lib/utils";
 
-const carterOne = Carter_One({ subsets: ["latin"], weight: "400" });
+const bricolage = Bricolage_Grotesque({ subsets: ["latin"], weight: ["400"] });
 
 const Home: React.FC = () => {
   return (
@@ -12,7 +12,7 @@ const Home: React.FC = () => {
         <div
           className={cn(
             "font-bold text-3xl md:text-5xl flex items-center justify-center text-center",
-            carterOne.className
+            bricolage.className
           )}
         >
           Weather Application

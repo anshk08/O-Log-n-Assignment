@@ -67,17 +67,3 @@
     @apply bg-background text-foreground;
   }
 }
-
-.path {
-  stroke-dasharray: 500px 100px;
-  animation: animate 100s linear infinite alternate-reverse;
-}
-
-@keyframes animate {
-  from {
-    stroke-dashoffset: 0;
-  }
-  to {
-    stroke-dashoffset: 12433.8193359375;
-  }
-}
